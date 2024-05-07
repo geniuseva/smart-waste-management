@@ -1,0 +1,55 @@
+path: /content/data/image_classification  
+train: images/train # train images 
+val: val/images/val   # validation images 
+
+# Classes
+names:
+  0: Fast food container
+  1: Book paper
+  2: Power bank
+  3: Leftover food
+  4: Bag
+  5: Trash bin
+  6: Plastic kitchenware
+  7: Plastic dishes
+  8: Plastic toys
+  9: Plastic hangers
+  10: Large bone
+  11: Dry battery
+  12: Express delivery bag
+  13: Plug and wire
+  14: Old clothes
+  15: Aluminum can
+  16: Pillow
+  17: Fruit peel and flesh
+  18: Towel
+  19: Plush toy
+  20: Contaminated plastic
+  21: Contaminated paper
+  22: Toiletries
+  23: Cigarette butt
+  24: Toothpick
+  25: Glass dishes
+  26: Cutting board
+  27: Chopsticks
+  28: Cardboard box
+  29: Paper bag
+  30: Flower pot
+  31: Tea residue
+  32: Vegetable stalks and leaves
+  33: Eggshell
+  34: Seasoning bottle
+  35: Ointment
+  36: Expired medicine
+  37: Wine bottle
+  38: Metal kitchenware
+  39: Metal dishes
+  40: Metal food cans
+  41: Pot
+  42: Ceramic dishes
+  43: Shoes
+  44: Edible oil barrel
+  45: Beverage bottle
+  46: Beverage carton
+  47: Fish bones
+
