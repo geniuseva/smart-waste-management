@@ -1,6 +1,6 @@
-path: /content/data/image_classification  
+path: /content/data/image_classification
 train: images/train # train images 
-val: val/images/val   # validation images 
+val: images/val   # validation images 
 
 # Classes
 names:
