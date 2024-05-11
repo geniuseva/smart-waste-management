@@ -10,8 +10,13 @@ waste detection and classification using object recognition, machine learning, a
 - Please go [here](https://drive.google.com/drive/u/0/folders/1zwkuQamOJ0ThWWjWh5pNhYCM5KttJA5H) to download the entire folder, and put it under the project root directory.
 
 # Results
-1. Images:
-   - ?
+1. Images(all images below are in the "val_0508_0500" folder):
+   - val_batch0_labels.jpg
+   - val_batch0_pred.jpg
+   - val_batch1_labels.jpg
+   - val_batch1_pred.jpg
+   - val_batch2_labels.jpg
+   - val_batch2_pred.jpg
 3. Videos:
    - two_bottle.MOV_out.mp4
    - trash2.mp4_out.mp4
